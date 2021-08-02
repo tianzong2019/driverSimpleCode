@@ -6,7 +6,7 @@
 
 static int hello_probe(struct platform_device *pdev)
 {
-	printk("xiaobo match ok!\n");
+	printk("tianzong match ok!\n");
 
 	return 0;
 }
